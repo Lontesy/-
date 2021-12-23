@@ -1,0 +1,16 @@
+C:\Users\olegw\source\repos\Лр № 10 (ТОПО)\Лр № 10 (ТОПО)\bin\Debug\net5.0\Лр № 10 (ТОПО).exe
+C:\Users\olegw\source\repos\Лр № 10 (ТОПО)\Лр № 10 (ТОПО)\bin\Debug\net5.0\Лр № 10 (ТОПО).deps.json
+C:\Users\olegw\source\repos\Лр № 10 (ТОПО)\Лр № 10 (ТОПО)\bin\Debug\net5.0\Лр № 10 (ТОПО).runtimeconfig.json
+C:\Users\olegw\source\repos\Лр № 10 (ТОПО)\Лр № 10 (ТОПО)\bin\Debug\net5.0\Лр № 10 (ТОПО).runtimeconfig.dev.json
+C:\Users\olegw\source\repos\Лр № 10 (ТОПО)\Лр № 10 (ТОПО)\bin\Debug\net5.0\Лр № 10 (ТОПО).dll
+C:\Users\olegw\source\repos\Лр № 10 (ТОПО)\Лр № 10 (ТОПО)\bin\Debug\net5.0\ref\Лр № 10 (ТОПО).dll
+C:\Users\olegw\source\repos\Лр № 10 (ТОПО)\Лр № 10 (ТОПО)\bin\Debug\net5.0\Лр № 10 (ТОПО).pdb
+C:\Users\olegw\source\repos\Лр № 10 (ТОПО)\Лр № 10 (ТОПО)\obj\Debug\net5.0\Лр № 10 (ТОПО).csproj.AssemblyReference.cache
+C:\Users\olegw\source\repos\Лр № 10 (ТОПО)\Лр № 10 (ТОПО)\obj\Debug\net5.0\Лр № 10 (ТОПО).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegw\source\repos\Лр № 10 (ТОПО)\Лр № 10 (ТОПО)\obj\Debug\net5.0\Лр № 10 (ТОПО).AssemblyInfoInputs.cache
+C:\Users\olegw\source\repos\Лр № 10 (ТОПО)\Лр № 10 (ТОПО)\obj\Debug\net5.0\Лр № 10 (ТОПО).AssemblyInfo.cs
+C:\Users\olegw\source\repos\Лр № 10 (ТОПО)\Лр № 10 (ТОПО)\obj\Debug\net5.0\Лр № 10 (ТОПО).csproj.CoreCompileInputs.cache
+C:\Users\olegw\source\repos\Лр № 10 (ТОПО)\Лр № 10 (ТОПО)\obj\Debug\net5.0\Лр № 10 (ТОПО).dll
+C:\Users\olegw\source\repos\Лр № 10 (ТОПО)\Лр № 10 (ТОПО)\obj\Debug\net5.0\ref\Лр № 10 (ТОПО).dll
+C:\Users\olegw\source\repos\Лр № 10 (ТОПО)\Лр № 10 (ТОПО)\obj\Debug\net5.0\Лр № 10 (ТОПО).pdb
+C:\Users\olegw\source\repos\Лр № 10 (ТОПО)\Лр № 10 (ТОПО)\obj\Debug\net5.0\Лр № 10 (ТОПО).genruntimeconfig.cache

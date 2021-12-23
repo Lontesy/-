@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)", "Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).csproj", "{B631110B-8020-4382-B111-11EDA07EEFB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringHandlerTest", "TestProject1\StringHandlerTest.csproj", "{C3D8EDB4-9086-490A-8868-A7389B849862}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B631110B-8020-4382-B111-11EDA07EEFB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B631110B-8020-4382-B111-11EDA07EEFB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B631110B-8020-4382-B111-11EDA07EEFB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B631110B-8020-4382-B111-11EDA07EEFB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D8EDB4-9086-490A-8868-A7389B849862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D8EDB4-9086-490A-8868-A7389B849862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D8EDB4-9086-490A-8868-A7389B849862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D8EDB4-9086-490A-8868-A7389B849862}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6E73763-0C84-4BAC-95AE-05EBDF80FE57}
+	EndGlobalSection
+EndGlobal

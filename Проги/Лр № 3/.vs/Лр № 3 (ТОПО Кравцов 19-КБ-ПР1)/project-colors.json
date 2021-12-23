@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b631110b-8020-4382-b111-11eda07eefb8": {
+      "ProjectGuid": "b631110b-8020-4382-b111-11eda07eefb8",
+      "DisplayName": "Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)",
+      "ColorIndex": 0
+    },
+    "c3d8edb4-9086-490a-8868-a7389b849862": {
+      "ProjectGuid": "c3d8edb4-9086-490a-8868-a7389b849862",
+      "DisplayName": "StringHandlerTest",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "STLab07.Variant11/1.0.0": {
+        "runtime": {
+          "STLab07.Variant11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "STLab07.Variant11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

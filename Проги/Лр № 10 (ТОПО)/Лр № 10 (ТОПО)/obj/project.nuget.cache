@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ND6Q2igyoOWQFzQLVH8k7XAJbewRLCTZHkoUMQ7cl3w1Erkl0y69vzS5xFlE5N3OfpKdKnWbfWVJ+g3jTr25WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olegw\\source\\repos\\Лр № 10 (ТОПО)\\Лр № 10 (ТОПО)\\Лр № 10 (ТОПО).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olegw\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",
+    "C:\\Users\\olegw\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\olegw\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VzrjmPfixun14IMla88c+EwT550vBIUH6d5WmPga9nh0YY9/J/5Wrc6ffl6ehHKoHuklujkzFGWu5zjIZ2qOjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olegw\\Desktop\\University\\3-й курс\\1-й семестр\\Тестирование и отладка ПО\\Проги\\STLab07.Variant11\\STLab07.Variant11\\STLab07.Variant11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olegw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

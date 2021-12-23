@@ -1,0 +1,50 @@
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).exe
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).deps.json
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).runtimeconfig.json
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).runtimeconfig.dev.json
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).dll
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\ref\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).dll
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).pdb
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\obj\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\obj\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\obj\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\obj\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).AssemblyInfo.cs
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\obj\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\obj\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).dll
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\obj\Debug\net5.0\ref\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).dll
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\obj\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).pdb
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\obj\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).genruntimeconfig.cache
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\testcentric.engine.metadata.dll
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Professional\source\repos\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\obj\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).csproj.CopyComplete
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\testcentric.engine.metadata.dll
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).exe
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).deps.json
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).runtimeconfig.json
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).runtimeconfig.dev.json
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).dll
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\ref\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).dll
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).pdb
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\obj\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).csproj.AssemblyReference.cache
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\obj\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\obj\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).AssemblyInfoInputs.cache
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\obj\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).AssemblyInfo.cs
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\obj\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).csproj.CoreCompileInputs.cache
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\obj\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).csproj.CopyComplete
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\obj\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).dll
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\obj\Debug\net5.0\ref\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).dll
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\obj\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).pdb
+C:\Users\olegw\Desktop\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1)\obj\Debug\net5.0\Лр № 3 (ТОПО Кравцов 19-КБ-ПР1).genruntimeconfig.cache

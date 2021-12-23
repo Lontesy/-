@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CjEGYe/rK1lYlIWO2/zJBadtyDZV8fXpmWcUeo0XJ45dCkz12sXcbMyBiH+eI5cCOJ07KI/DiTN3kBXnyz7nWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olegw\\Desktop\\University\\3-й курс\\1-й семестр\\Тестирование и отладка ПО\\Проги\\Лр_4\\LR4(Oleg)\\LR4(Oleg).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olegw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

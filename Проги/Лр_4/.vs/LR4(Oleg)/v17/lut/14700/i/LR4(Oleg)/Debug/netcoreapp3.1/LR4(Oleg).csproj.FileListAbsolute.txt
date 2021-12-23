@@ -1,0 +1,12 @@
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\.vs\LR4(Oleg)\v17\lut\0\b\LR4(Oleg)\Debug\netcoreapp3.1\LR4(Oleg).exe
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\.vs\LR4(Oleg)\v17\lut\0\b\LR4(Oleg)\Debug\netcoreapp3.1\LR4(Oleg).deps.json
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\.vs\LR4(Oleg)\v17\lut\0\b\LR4(Oleg)\Debug\netcoreapp3.1\LR4(Oleg).runtimeconfig.json
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\.vs\LR4(Oleg)\v17\lut\0\b\LR4(Oleg)\Debug\netcoreapp3.1\LR4(Oleg).runtimeconfig.dev.json
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\.vs\LR4(Oleg)\v17\lut\0\b\LR4(Oleg)\Debug\netcoreapp3.1\LR4(Oleg).dll
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\.vs\LR4(Oleg)\v17\lut\0\i\LR4(Oleg)\Debug\netcoreapp3.1\LR4(Oleg).csproj.AssemblyReference.cache
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\.vs\LR4(Oleg)\v17\lut\0\i\LR4(Oleg)\Debug\netcoreapp3.1\LR4(Oleg).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\.vs\LR4(Oleg)\v17\lut\0\i\LR4(Oleg)\Debug\netcoreapp3.1\LR4(Oleg).AssemblyInfoInputs.cache
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\.vs\LR4(Oleg)\v17\lut\0\i\LR4(Oleg)\Debug\netcoreapp3.1\LR4(Oleg).AssemblyInfo.cs
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\.vs\LR4(Oleg)\v17\lut\0\i\LR4(Oleg)\Debug\netcoreapp3.1\LR4(Oleg).csproj.CopyComplete
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\.vs\LR4(Oleg)\v17\lut\0\i\LR4(Oleg)\Debug\netcoreapp3.1\LR4(Oleg).dll
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\.vs\LR4(Oleg)\v17\lut\0\i\LR4(Oleg)\Debug\netcoreapp3.1\LR4(Oleg).genruntimeconfig.cache

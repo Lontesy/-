@@ -1,0 +1,28 @@
+C:\Users\User\source\repos\LR4(Oleg)\LR4(Oleg)\bin\Debug\netcoreapp3.1\LR4(Oleg).exe
+C:\Users\User\source\repos\LR4(Oleg)\LR4(Oleg)\bin\Debug\netcoreapp3.1\LR4(Oleg).deps.json
+C:\Users\User\source\repos\LR4(Oleg)\LR4(Oleg)\bin\Debug\netcoreapp3.1\LR4(Oleg).runtimeconfig.json
+C:\Users\User\source\repos\LR4(Oleg)\LR4(Oleg)\bin\Debug\netcoreapp3.1\LR4(Oleg).runtimeconfig.dev.json
+C:\Users\User\source\repos\LR4(Oleg)\LR4(Oleg)\bin\Debug\netcoreapp3.1\LR4(Oleg).dll
+C:\Users\User\source\repos\LR4(Oleg)\LR4(Oleg)\bin\Debug\netcoreapp3.1\LR4(Oleg).pdb
+C:\Users\User\source\repos\LR4(Oleg)\LR4(Oleg)\obj\Debug\netcoreapp3.1\LR4(Oleg).csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LR4(Oleg)\LR4(Oleg)\obj\Debug\netcoreapp3.1\LR4(Oleg).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LR4(Oleg)\LR4(Oleg)\obj\Debug\netcoreapp3.1\LR4(Oleg).AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LR4(Oleg)\LR4(Oleg)\obj\Debug\netcoreapp3.1\LR4(Oleg).AssemblyInfo.cs
+C:\Users\User\source\repos\LR4(Oleg)\LR4(Oleg)\obj\Debug\netcoreapp3.1\LR4(Oleg).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LR4(Oleg)\LR4(Oleg)\obj\Debug\netcoreapp3.1\LR4(Oleg).dll
+C:\Users\User\source\repos\LR4(Oleg)\LR4(Oleg)\obj\Debug\netcoreapp3.1\LR4(Oleg).pdb
+C:\Users\User\source\repos\LR4(Oleg)\LR4(Oleg)\obj\Debug\netcoreapp3.1\LR4(Oleg).genruntimeconfig.cache
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\LR4(Oleg)\bin\Debug\netcoreapp3.1\LR4(Oleg).exe
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\LR4(Oleg)\bin\Debug\netcoreapp3.1\LR4(Oleg).deps.json
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\LR4(Oleg)\bin\Debug\netcoreapp3.1\LR4(Oleg).runtimeconfig.json
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\LR4(Oleg)\bin\Debug\netcoreapp3.1\LR4(Oleg).runtimeconfig.dev.json
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\LR4(Oleg)\bin\Debug\netcoreapp3.1\LR4(Oleg).dll
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\LR4(Oleg)\bin\Debug\netcoreapp3.1\LR4(Oleg).pdb
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\LR4(Oleg)\obj\Debug\netcoreapp3.1\LR4(Oleg).csproj.AssemblyReference.cache
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\LR4(Oleg)\obj\Debug\netcoreapp3.1\LR4(Oleg).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\LR4(Oleg)\obj\Debug\netcoreapp3.1\LR4(Oleg).AssemblyInfoInputs.cache
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\LR4(Oleg)\obj\Debug\netcoreapp3.1\LR4(Oleg).AssemblyInfo.cs
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\LR4(Oleg)\obj\Debug\netcoreapp3.1\LR4(Oleg).csproj.CoreCompileInputs.cache
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\LR4(Oleg)\obj\Debug\netcoreapp3.1\LR4(Oleg).dll
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\LR4(Oleg)\obj\Debug\netcoreapp3.1\LR4(Oleg).pdb
+C:\Users\olegw\Desktop\University\3-й курс\1-й семестр\Тестирование и отладка ПО\Проги\Лр_4\LR4(Oleg)\obj\Debug\netcoreapp3.1\LR4(Oleg).genruntimeconfig.cache

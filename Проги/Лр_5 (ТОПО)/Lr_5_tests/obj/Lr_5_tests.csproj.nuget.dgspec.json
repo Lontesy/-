@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\olegw\\source\\repos\\Лр_5 (ТОПО)\\Lr_5_tests\\Lr_5_tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\olegw\\source\\repos\\Лр_5 (ТОПО)\\Lr_5_tests\\Lr_5_tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\olegw\\source\\repos\\Лр_5 (ТОПО)\\Lr_5_tests\\Lr_5_tests.csproj",
+        "projectName": "Lr_5_tests",
+        "projectPath": "C:\\Users\\olegw\\source\\repos\\Лр_5 (ТОПО)\\Lr_5_tests\\Lr_5_tests.csproj",
+        "packagesPath": "C:\\Users\\olegw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olegw\\source\\repos\\Лр_5 (ТОПО)\\Lr_5_tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olegw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\olegw\\source\\repos\\Лр_5 (ТОПО)\\Лр_5 (ТОПО)\\Лр_5 (ТОПО).csproj": {
+                "projectPath": "C:\\Users\\olegw\\source\\repos\\Лр_5 (ТОПО)\\Лр_5 (ТОПО)\\Лр_5 (ТОПО).csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\olegw\\source\\repos\\Лр_5 (ТОПО)\\Лр_5 (ТОПО)\\Лр_5 (ТОПО).csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\olegw\\source\\repos\\Лр_5 (ТОПО)\\Лр_5 (ТОПО)\\Лр_5 (ТОПО).csproj",
+        "projectName": "Лр_5 (ТОПО)",
+        "projectPath": "C:\\Users\\olegw\\source\\repos\\Лр_5 (ТОПО)\\Лр_5 (ТОПО)\\Лр_5 (ТОПО).csproj",
+        "packagesPath": "C:\\Users\\olegw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olegw\\source\\repos\\Лр_5 (ТОПО)\\Лр_5 (ТОПО)\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olegw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

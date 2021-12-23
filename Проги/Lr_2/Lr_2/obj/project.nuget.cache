@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eJWET15Jll5QcKkV+ELlRO5UJuL43rgowcychvTsldhXMtccqN2wLHAV/Kse1+ekVliR7/vtekKwWLU++QBcEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olegw\\source\\repos\\Lr_2\\Lr_2\\Lr_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olegw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
